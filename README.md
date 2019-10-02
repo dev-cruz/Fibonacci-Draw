@@ -1,2 +1,2 @@
-Drawing the fibonacci's sequence squares using the turtle library.
-The user have input the number of squares to be drawn.
+Drawing the squares of Fibonacci sequence using the turtle library.
+The user must enter the number of squares to be drawn.
